@@ -1,0 +1,18 @@
+/* rentPredictionModal.css */
+
+/* Customize modal for sliding in from the right */
+.modal.right .modal-dialog {
+    position: fixed;
+    margin: auto;
+    width: 30%; /* Adjust the width of the modal as needed */
+    height: 100%;
+    right: 0;
+    top: 0;
+    transform: translateX(100%); /* Initially off-screen */
+    transition: transform 0.3s ease-in-out; /* Smooth sliding animation */
+  }
+  
+  .modal.right.show .modal-dialog {
+    transform: translateX(0); /* Slide in when modal is shown */
+  }
+  

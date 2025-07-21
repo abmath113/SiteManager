@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Build output
+build/
+
+# Env files
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db

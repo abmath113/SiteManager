@@ -1,0 +1,166 @@
+.main-footer-label {
+    font-weight: 400;
+}
+
+.main-footer-label>strong {
+    font-weight: 400;
+}
+
+.sidebar-brand-logo {
+    width: 60px;
+    margin-right: 5px;
+    background:#ffffff00;
+    padding:0.2rem;
+}
+
+.sidebar-brand-title {
+    color: #ffffff;
+    font-size: 1.3rem;
+}
+
+.sidebar-brand-title>b {
+    color: #0099cc;
+    font-size: 1.5rem;
+}
+
+.navbar-brand-banner {
+    padding-left: 5px;
+}
+
+.navbar-brand-logo {
+    width: 35px;
+}
+
+.navbar-brand-title {
+    color: #495057;
+    font-size: 1.3rem;
+}
+
+.navbar-brand-title>b {
+    color: #0099cc;
+}
+
+.content-card-mb {
+    margin-bottom: 10px;
+}
+
+.content-card-header {
+    padding: 0.5rem 0.7rem;
+}
+
+.content-card-body {
+    padding: 0.3rem 0.8rem;
+}
+
+.bg-line-grad-yellow-light {
+    background: linear-gradient(to bottom, #ffdc51 -146%, #ffffff 140%);
+}
+
+.bg-line-grad-green {
+    background: linear-gradient(to bottom, #66ff33 -146%, #ffffff 140%);
+}
+
+.bg-line-grad-red-light {
+    background: linear-gradient(to bottom, #ff9999 -61%, #ffffff 128%);
+}
+
+.bg-line-grad-blue {
+    background: linear-gradient(to bottom, #00ffff -146%, #ffffff 140%);
+}
+
+.bg-line-grad-blue-light {
+    background: linear-gradient(to bottom, #ccffff -61%, #ffffff 128%);
+}
+
+.bg-line-grad-grey-light {
+    background: linear-gradient(to bottom, #cccccc -61%, #ffffff 128%);
+}
+
+.bg-line-grad-blue-pink-light {
+    background: linear-gradient(to bottom, #ffff66 0%, #ffccff 100%);
+}
+
+.bg-line-grad-green-blue-light {
+    background: linear-gradient(to bottom, #e6fff1 0%, #e6f7ff 100%);
+}
+
+
+.card-header-h-color-blue-d {
+    color: #0099cc;
+}
+
+.card-header-h-color-yellow-d {
+    color: #ff9900;
+}
+
+.card-header-h-color-green-d {
+    color: #009900;
+}
+
+.table-header-a {
+    color:#009999;
+}
+
+.table-header-b {
+    color:#006699;
+}
+
+.icon-orange {
+    color : #fd7e14;
+}
+.icon-pink {
+    color : #ff0066;
+}
+.icon-grey {
+    color : #444b53;
+}
+.icon-red {
+    color : #f90e0e;
+}
+
+
+.parttable-row-highlight {
+    background-color: #e5e8e6;
+}
+
+.rdt_TableHead {
+    font-size: 14px !important;
+}
+
+.rdt_TableHeadRow {
+    background-color: #eaeaeaab !important;
+}
+.rdt_Table{
+    border-radius: 20px !important;
+}
+.rdt_TableCell {
+    font-size: 14px;
+}
+
+.bar-right {
+    border-right-style: solid;
+    border-right-width: 4px;
+}
+
+.bar-right-success-light {
+    border-right-color: #1aff01;
+}
+
+.bar-right-danger-light {
+    border-right-color: #ff1201;
+}
+
+.bar-left {
+    border-left-style: solid;
+    border-left-width: 4px;
+}
+
+.bar-left-success-light {
+    border-left-color: #1aff01;
+}
+
+.bar-left-danger-light {
+    border-left-color: #ff1201;
+}
+
+
