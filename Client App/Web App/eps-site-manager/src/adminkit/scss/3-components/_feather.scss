@@ -1,0 +1,51 @@
+.feather {
+  width: 18px;
+  height: 18px;
+  stroke-width: 2;
+}
+
+.feather-sm {
+  width: 14px;
+  height: 14px;
+}
+
+.feather-lg {
+  width: 36px;
+  height: 36px;
+}
+
+
+.feather-red {
+  stroke: #fc0505;
+}
+.feather-red:hover{
+  stroke: $feather-hover;
+}
+
+.feather-green {
+  stroke: #339966;
+}
+.feather-green:hover{
+  stroke: $feather-hover;
+}
+
+.feather-orange {
+  stroke: #ff8a31;
+}
+.feather-orange:hover{
+  stroke: $feather-hover;
+}
+
+.feather-dark-pink {
+  stroke: #ff0066;
+}
+.feather-dark-pink:hover {
+  stroke: $feather-hover;
+}
+
+.feather-blue {
+  stroke: $feather-blue;
+}
+.feather-blue:hover{
+  stroke: $feather-hover;
+}
